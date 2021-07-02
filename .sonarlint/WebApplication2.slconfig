@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://l:8000",
+  "Organization": null,
+  "ProjectKey": "WebApplication2",
+  "ProjectName": "WebApplication2",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXOkSDyKDwI4tEmY6x6M",
+      "ProfileTimestamp": "2021-05-03T15:50:00Z"
+    }
+  }
+}
